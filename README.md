@@ -21,5 +21,8 @@ NIM  : E41201809<br/>
 <b>3. Tampilan Admin</b> <br/>
 <img src="https://user-images.githubusercontent.com/47249108/142725423-3eb9d750-6aab-4f88-a9ce-0e1f6eed022c.png" width="260" height="450">
 
+ <br/>
+<img src="https://user-images.githubusercontent.com/47249108/142725425-95a2d7d3-d8e3-4e8a-b70a-fa73c8cc909b.png" width="260" height="450">
+
 
 
